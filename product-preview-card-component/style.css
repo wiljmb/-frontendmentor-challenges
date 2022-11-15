@@ -112,6 +112,10 @@ body {
   font-weight: 700;
 }
 
+.btn:hover {
+  background-color: rgb(60, 128, 103);
+}
+
 .btn img {
   margin-right: 1rem;
 }
